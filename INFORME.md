@@ -5,8 +5,8 @@ Archivo: INFORME.md
 Enlace al repositorio: https://github.com/angoba/taller-u6-grupo-11
 
 ## Integrantes y roles
-- R1, responsable del repositorio: <Juan_Diego_Barrero> (@<angoba>)
-- R2, R3 - responsable de datos: <Edwin_Santiago_Rodriguez_Castillo> (@<Santiag0R0driguez>)
+- R1, responsable del repositorio: <Juan_Diego_Barrero> (@angoba)
+- R2, R3 - responsable de datos: <Edwin_Santiago_Rodriguez_Castillo> (@Santiag0R0driguez)
 
  
 ## 2. Reproducción de la versión 1.0 (M2)

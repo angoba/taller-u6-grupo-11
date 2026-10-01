@@ -58,5 +58,5 @@ Reproducción exacta: 3 de 3 salidas coinciden.
 Fecha de referencia: septiembre de 2026. Las versiones se fijan en `requirements.txt`; toda actualización debe registrarse allí y validarse con `./reproducir.sh`.
 
 ## Integrantes y roles
-- R1, responsable del repositorio: <Juan_Diego_Barrero> (@<angoba>)
-- R2, responsable de datos: <Edwin_Santiago_Rodriguez_Castillo> (@<Santiag0R0driguez>)
+- R1, responsable del repositorio: <Juan_Diego_Barrero> (@angoba)
+- R2, responsable de datos: <Edwin_Santiago_Rodriguez_Castillo> (@Santiag0R0driguez)
